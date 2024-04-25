@@ -7,3 +7,10 @@ There are four subsets, evaluating the LLMs' knowledge on clinical guidelines, r
 Paper is coming soon.
 
 For any queries or feedback, please contact geteff@vip.qq.com.
+
+ltemQA.json--GIQA
+Real case QA.json--RCQA
+Treatment decision QA 1213.json--TSQA
+treatment based QA.json--MOQA
+
+The file 'Supply' includes the codes involved in the study, the prompts, and the model's output.
