@@ -1,5 +1,9 @@
 # Osteoarthritis-Benchmark
-This repository is mainly consisted of three parts: 1.Osteoarthritis dataset curated by professional physicians. 2.Codes and prompt to test LLMs' knowledge and clinical capability in osteoarthritis management. 3.Codes and prompts to set up DocOA, which integrates retrieval augmented generation and instructiong prompting for specialized osteoarthritis management.
+This repository is mainly consisted of three parts: 
+1.Osteoarthritis dataset curated by professional physicians. 
+2.Codes and prompt to test LLMs' knowledge and clinical capability in osteoarthritis management. 
+3.Codes and prompts to set up DocOA, which integrates retrieval augmented generation and instructiong prompting for specialized osteoarthritis management.
+4.Crude data from our initial tests
 
 1.Osteoarthritis dataset
 
@@ -12,6 +16,7 @@ treatment based QA.json--MOQA;
 
 3.Codes and prompt to set up DocOA
 
+4.Crude data from our initial tests
 
 For any queries or feedback, please contact geteff@wchscu.cn
 
