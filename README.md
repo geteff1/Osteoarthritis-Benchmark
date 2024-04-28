@@ -4,8 +4,11 @@ This repository is mainly consisted of three branches:
 1.Osteoarthritis dataset
 
 ltemQA.json--GIQA;
+
 Real case QA.json--RCQA;
+
 Treatment decision QA 1213.json--TSQA;
+
 treatment based QA.json--MOQA;
 
 
