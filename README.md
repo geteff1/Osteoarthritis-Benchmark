@@ -8,7 +8,6 @@ Real case QA.json--RCQA;
 Treatment decision QA 1213.json--TSQA;
 treatment based QA.json--MOQA;
 
-ltemQA.json--GIQA; Real case QA.json--RCQA; Treatment decision QA 1213.json--TSQA; treatment based QA.json--MOQA;
 
 Guideline-item QA (GIQA), which was developed based on specific items extracted from the clinical guidelines, evaluates the LLMs’ knowledge of these well-established standards. The GIQA comprised 337 items.
 
