@@ -34,6 +34,8 @@ Structure transfer.ipynb — Transfer all the responses into JSON format.
 
 All outputs from the LLMs are copied and pasted into Excel files. Files whose names end in 'retrieval' are outputs from DocOA.
 
+Other information：
+
 The file 'Supply' includes the codes involved in the study, the prompts, and the model's output.
 
 For any queries or feedback, please contact geteff@wchscu.cn
