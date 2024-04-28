@@ -1,5 +1,10 @@
 # Osteoarthritis-Benchmark
-This repository is mainly consisted of three branches: 
+
+This is the first knowledge base for large language models focusing on osteoarthritis, containing evidence-based medical information on osteoarthritis that can be used for testing large language models and for retrieval-augmented generation.
+
+Using this repository, the performance of different LLMs on osteoarthritis knowledge can be tested. This study first applies Retrieval-Augmented Generation (RAG) and prompting to establish DocOA, which can answer professional questions about osteoarthritis based on our constructed knowledge base.
+
+The main branch includes all uploaded files, and we have divided these files into three branches. Below are the detailed descriptions of each branches: 
 
 1.Osteoarthritis dataset
 
