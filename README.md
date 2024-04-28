@@ -12,6 +12,8 @@ treatment based QA.json--MOQA;
 
 3.Crude data from our initial tests
 
+The file 'Supply' includes the codes involved in the study, the prompts, and the model's output.
+
 For any queries or feedback, please contact geteff@wchscu.cn
 
-The file 'Supply' includes the codes involved in the study, the prompts, and the model's output.
+
